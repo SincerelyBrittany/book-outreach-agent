@@ -1,0 +1,12 @@
+# Your book, contacts and drafts stay private
+book.yaml
+contacts.xlsx
+~$*.xlsx
+drafts/
+.claude/settings.local.json
+
+__pycache__/
+.venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
