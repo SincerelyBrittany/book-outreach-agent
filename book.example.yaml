@@ -1,0 +1,25 @@
+# Copy this file to book.yaml and fill in your book. book.yaml is git-ignored, so your book
+# stays private. The skill and the templates use ONLY what's written here; anything you
+# leave out never appears in an email.
+title: Milo and the Moon Garden
+author: Jordan Example
+author_bio: a former kindergarten teacher
+illustrator: Sam Sample
+ages: "4–7"
+pages: 32
+pitch: >-
+  a picture book about a boy who plants a garden that only blooms at night, and learns that
+  some things grow best with patience
+extra_lines:                      # optional: one or two true sentences that make the book stand out
+  - It grew out of a class garden project I ran for ten years.
+themes: [patience, gardening, nature]
+editions:
+  - {format: Paperback, isbn: "9780000000001", publisher: Example Press, published: "2025-01-15", price: "$11.99", where: Bookshop.org, url: "https://example.com/milo"}
+website: example.com/milo
+author_email: author@example.com
+offers:                           # only what you're actually willing to do
+  - classroom read-alouds
+  - story-time readings
+mailing_address: ""               # required in commercial email (CAN-SPAM); add before sending
+open_questions:                   # things to confirm before promising them in an email
+  - Is the book available through a wholesaler (Ingram or Baker & Taylor)?

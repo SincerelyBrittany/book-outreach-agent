@@ -1,0 +1,20 @@
+[project]
+name = "book-outreach-agent"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["openpyxl>=3.1", "pyyaml>=6"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 140
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+ignore = ["B905"]
