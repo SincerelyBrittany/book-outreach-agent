@@ -20,6 +20,11 @@ ORG_TYPES = {
         "who": "children's book buyer or events coordinator",
         "template": "bookstore.md",
     },
+    "Children's library": {
+        "ask": "Add the book to the children's collection, or book a story-time reading",
+        "who": "children's librarian or youth services coordinator (children's rooms, children's centers)",
+        "template": "library.md",
+    },
     "Public library": {
         "ask": "Add the book to the collection, or book a story-time reading",
         "who": "children's librarian, branch manager, or the system's purchase-suggestion form",
