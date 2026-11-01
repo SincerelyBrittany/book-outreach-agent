@@ -1,6 +1,6 @@
 # A Book Outreach Agent
 
-[![CI](https://github.com/SincerelyBrittany/a-book-outreach-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/SincerelyBrittany/a-book-outreach-agent/actions/workflows/ci.yml)
+[![CI](https://github.com/SincerelyBrittany/book-outreach-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/SincerelyBrittany/book-outreach-agent/actions/workflows/ci.yml)
 
 > An AI research and outreach assistant that helps independent authors get children's books into libraries, schools, children's hospitals and bookstores, with a person approving every email. It starts with New York.
 
